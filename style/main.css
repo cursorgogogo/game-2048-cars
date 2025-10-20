@@ -169,14 +169,14 @@ h1.title {
   float: right; }
 
 .score-container:after {
-  content: "Cupcake"; }
+  content: "Car"; }
 .score-points:after {
-  content: "Earned"; }
+  content: "Earned($)"; }
 
 .best-container:after {
-  content: "Cupcake Max"; }
+  content: "Car Max"; }
 .best-points:after {
-	content: "Earned Max"; }
+	content: "Earned Max($)"; }
 
 p {
   margin-top: 0;
@@ -194,7 +194,7 @@ strong.important {
 
 hr {
   border: none;
-  border-bottom: 1px solid #fbb8cc;
+  border-bottom: 1px solid #9c8b7a;
   margin-top: 20px;
   margin-bottom: 30px; }
 
