@@ -2,13 +2,13 @@ String.defaultLocale = "en";
 String.locale = "en";
 String.toLocaleString({
 	"zh": {
-    "%game-intro"           : "加入 <strong>纸杯蛋糕!</strong>",
+    "%game-intro"           : "合并BYD汽车，合成你的 <strong>梦想车!</strong>",
     "%restart-button"       : "重新开始",
     "%keep-playing-button"  : "继续游戏",
     "%retry-button"         : "重试",
     "%game-won"             : "你赢了!",
     "%game-over"            : "游戏结束!",
-    "%game-explanation"     : "<strong class=\"important\">游戏规则:</strong> 使用你的 <strong>方向键</strong> 移动方块。当两个相同符号的方块接触时，它们会 <strong>合并升级!</strong>",
+    "%game-explanation"     : "<strong class=\"important\">游戏规则:</strong> 使用你的 <strong>方向键</strong> 移动方块。当两个相同符号的方块接触时，它们会 <strong>合并升级!</strong> 合并BYD汽车，解锁你的梦想车！",
     "%disclaimer"           : "<strong class=\"important\">注意:</strong> 这个网站 <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> 是官方版本 <a href=\"http://git.io/2048\">2048</a> 的衍生版本，原作者是 <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>。",
     "%credits"              : "纸杯蛋糕图片来自 <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>。",
     "%tweet1"               : "我在2048纸杯蛋糕游戏中得分 \"",
@@ -42,13 +42,13 @@ String.toLocaleString({
     '%p8192'                : '彩虹'
 	},
 	"en": {
-    "%game-intro"           : "Join the <strong>2048 Cars!</strong>",
+    "%game-intro"           : "Merge BYD cars and create your <strong>Dream Car!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
     "%game-won"             : "You win!",
     "%game-over"            : "Game over!",
-    "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
+    "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong> Merge BYD cars to unlock your dream car!",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
     "%tweet1"               : "I scored \"",
