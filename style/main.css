@@ -576,9 +576,10 @@ hr {
 
 .above-game{
   display: flex;
-  background-color: rgba(255,255,255,0.65);
-  border-radius: 6px;
-  padding: 2px;
+  background-color: rgba(191,179,168,0.9);
+  border-radius: 4px;
+  padding: 5px 5px;
+  align-items: center;
 }
 .above-game:after {
   content: "";
@@ -586,11 +587,12 @@ hr {
   clear: both; }
 
 .game-intro {
-  float: left;
-  font-size: 18px;
-  line-height: 1.5;
+  flex: auto;
+  font-size: 16px;
+  line-height: 1.2;
   margin-bottom: 0;
-  margin-top: 0; }
+  margin-top: 0;
+}
 
 .restart-button {
   display: inline-block;
@@ -642,8 +644,8 @@ hr {
   .game-intro {
     display: block;
     box-sizing: border-box;
-    line-height: 1.3;
-    font-size: 16px;
+    line-height: 1.2;
+    font-size: 15px;
     margin-top: 0; 
     width: 180px;
   }
