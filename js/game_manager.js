@@ -106,8 +106,8 @@ GameManager.prototype.setup = function () {
   // Localize page elements
   this.localizeElements();
 
-  // Fill legend
-  this.fillLegend();
+  // Fill legend - disabled, now handled in HTML for SEO
+  // this.fillLegend();
 
   // Update the actuator
   this.actuate();
