@@ -171,12 +171,12 @@ h1.title {
 .score-container:after {
   content: "Car"; }
 .score-points:after {
-  content: "Earned($)"; }
+  content: "Score"; }
 
 .best-container:after {
-  content: "Car Max"; }
+  content: "Best Car"; }
 .best-points:after {
-	content: "Earned Max($)"; }
+	content: "Score Max"; }
 
 p {
   margin-top: 0;
